@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **swamishankar806@gmail.com** For Collaboration/Project or 
 - 😄 **Pronouns:** swami
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a App developer and Web develope. 😊😊
+## 🔗 I am a App developer and Web developer. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
