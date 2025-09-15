@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm swami shankar
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Cloud Engineer || software Engineer || from India**
 
 Email Me 👉 ✉️ **swamishankar806@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
