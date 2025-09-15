@@ -20,7 +20,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
  
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/swam-i) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swami_shankar__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Swami shankar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swamishankar806@gmail.com) 
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/swam-i) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swami_shankar__) [![LinkedIn][(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/swami-shankar-8119542ab))](https://linkedin.com/in/Swami shankar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swamishankar806@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
